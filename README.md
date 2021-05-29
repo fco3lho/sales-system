@@ -1,5 +1,5 @@
-# Sistema de vendas
+# Sales system
 
-### Diagrama de classes:
+### Class diagram:
 
 ![Preview-Screens](https://github.com/fco3lho/sales-system/blob/main/Activity.jpg)
